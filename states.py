@@ -1,7 +1,7 @@
 import csv
 from csv import DictReader
 
-filename= "./data/states.csv"
+filename= "states.csv"
 
 
 states={"State":[], "Abbr":[], "State Capital":[], "Region":[]};
